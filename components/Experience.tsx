@@ -34,8 +34,8 @@ const Experience = () => {
         {experiences.map((experience, index) => (
           <div key={index} className="mb-8 flex flex-wrap lg:justify-center">
             <motion.div
-              initial={{ x: -100, opacity: 0 }}
-              whileInView={{ x: 0, opacity: 1 }}
+              initial={{ scale: 0.8, opacity: 0 }}
+              whileInView={{ scale: 1, opacity: 1 }}
               transition={{ duration: 1 }}
               className="w-full lg:w-1/4"
             >
@@ -44,8 +44,8 @@ const Experience = () => {
               </p>
             </motion.div>
             <motion.div
-              initial={{ x: 100, opacity: 0 }}
-              whileInView={{ x: 0, opacity: 1 }}
+              initial={{ scale: 0.8, opacity: 0 }}
+              whileInView={{ scale: 1, opacity: 1 }}
               transition={{ duration: 1 }}
               className="w-full max-w-xl lg:w-3/4"
             >

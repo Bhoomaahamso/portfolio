@@ -10,8 +10,8 @@ function About() {
       </h2>
       <div className="flex flex-wrap">
         <motion.div
-          initial={{ x: -100, scale:0.8 , opacity: 0 }}
-          whileInView={{ x: 0, scale: 1 ,opacity: 1 }}
+          initial={{ scale: 0.8, opacity: 0 }}
+          whileInView={{ scale: 1, opacity: 1 }}
           transition={{ duration: 0.5 }}
           className="w-full lg:w-1/2 lg:p-8"
         >
@@ -26,8 +26,8 @@ function About() {
           </div>
         </motion.div>
         <motion.div
-          initial={{ x: 100, opacity: 0 }}
-          whileInView={{ x: 0, opacity: 1 }}
+          initial={{ scale: 0.8, opacity: 0 }}
+          whileInView={{ scale: 1, opacity: 1 }}
           transition={{ duration: 0.5 }}
           className="w-full lg:w-1/2"
         >
