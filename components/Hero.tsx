@@ -39,12 +39,12 @@ const Hero = () => {
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
-              Hi, I'm Bhoomaahamso Dharamalayenam, a web developer with a knack
-              for crafting captivating frontend experiences. I've honed my
+              Hi, I&#39;m Bhoomaahamso Dharamalayenam, a web developer with a knack
+              for crafting captivating frontend experiences. I&#39;ve honed my
               skills during my tenure at Adani Digital Labs, where I learned
-              from the best. Beyond the office, I'm all about pushing
-              boundaries, whether it's through open-source contributions or
-              personal projects. Always striving for self-improvement, I'm on a
+              from the best. Beyond the office, I&#39;m all about pushing
+              boundaries, whether it&#39;s through open-source contributions or
+              personal projects. Always striving for self-improvement, I&#39;m on a
               perpetual journey of growth and innovation.
             </motion.p>
           </div>

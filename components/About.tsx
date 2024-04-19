@@ -36,7 +36,7 @@ function About() {
               I specialize in leveraging the power of Next.js and the MERN stack
               to build dynamic, interactive web applications that redefine user
               experiences. Recently, while working at Adani Digital Labs, I
-              focused on enhancing their ecosystem's user experience by
+              focused on enhancing their ecosystem&#39;s user experience by
               designing and implementing significant changes to their frontend.
               I implemented Google Tag Manager events for improved analytics and
               data-driven insights and additionally, I optimized their Image
